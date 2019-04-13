@@ -1,0 +1,105 @@
+
+.login-logo{
+  position: relative;
+  margin-left: -41.5%;
+}
+.login-form-1{
+  padding: 5%;
+  /* box-shadow: 0 5px 8px 0 rgba(0, 0, 0, 0.2), 0 9px 26px 0 rgba(0, 0, 0, 0.19); */
+}
+.login-form-1 h3{
+  text-align: center;
+  margin-bottom:10%;
+  color:#fff;
+}
+
+.modal-header {
+  min-height: 16.43px;
+  padding: 15px;
+  border-bottom: 0px solid #e5e5e5;
+}
+
+.closeBtn{
+color: white;
+    font-size: 30px;
+    margin-left: 20px;
+
+
+  }
+
+
+.navbar-light .navbar-brand {
+    color: rgba(8, 8, 8, 0.9);
+    font-size: 32px;
+    margin-right: 60px;
+}
+
+#login{
+    margin-right: 30px;
+}
+.container-megamenu.vertical #menuHeading .megamenuToogle-pattern .container {
+    background-color: #ff3c20;
+    font-size: 15px;
+}
+
+.form-content
+{
+    padding: 5%;
+    margin-bottom: 2%;
+}
+.form-control{
+    border-radius:1.5rem;
+}
+.btnSubmit
+{
+    border:none;
+    border-radius:1.5rem;
+    padding: 1%;
+    width: 20%;
+    cursor: pointer;
+    background: #ff3c20;
+    color: #fff;
+}
+
+
+
+/*modal*/
+.modal-content{
+    background: #232f3e;
+  }
+  #LOGIN h1{
+    text-align: center;
+  }
+  #SUBMIT{
+    background: #ff3c20;
+      border: 0;
+      padding: 10px 20px;
+      margin-left: 31%;
+  
+  }
+  #LOGIN_EMAIL{
+    margin-bottom: 20px;
+  }
+  #PASSWORD{
+    width: 84%;
+      height: 36px;
+      border-radius: 20px;
+      margin-bottom: 20px;
+  }
+  /*modal*/
+  a.btn{
+      background: #ff3c20;
+      color: #fff
+    }
+    a.registerbtn{
+      background: #ff3c20;
+      color: #fff;
+      padding: 10px 20px;
+    }
+    a.btn-default{
+      width: 20%;
+      /* margin-left: 61%; */
+      /* right: 0; */
+      margin: auto;
+    }
+  /*end modal*/
